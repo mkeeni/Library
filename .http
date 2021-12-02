@@ -1,0 +1,7 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+{
+"BookName":"Book5",
+"IssuerName":"Issuer5",
+"Date":"10-06-2021"
+}
