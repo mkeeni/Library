@@ -28,7 +28,6 @@ app.post("/add-new-post", async (req, res) => {
 })
 app.use("/", (req, res)=>{
     //res.send("Hello from response server")
-    res.send("Amrithanshu")
     res.json(
 
     )
